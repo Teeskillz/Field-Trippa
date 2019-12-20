@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "274370982682",
+    "firebase_url": "https://picshare-254.firebaseio.com",
+    "project_id": "picshare-254",
+    "storage_bucket": "picshare-254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274370982682:android:1359086a07eba21d42f2a3",
+        "android_client_info": {
+          "package_name": "com.google.codelab.photos.sharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274370982682-rre2aughrsmg256dvdjr5o7te419uraj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.codelab.photos.sharing",
+            "certificate_hash": "450f67ca890d2a91f626de82c8e0eca74f9a6f5f"
+          }
+        },
+        {
+          "client_id": "274370982682-u30nau9977o7jqrmns0vu54jm7nncsfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLtWeiqyBeGoc5ash_FLSTrxEAMPynxjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274370982682-u30nau9977o7jqrmns0vu54jm7nncsfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
